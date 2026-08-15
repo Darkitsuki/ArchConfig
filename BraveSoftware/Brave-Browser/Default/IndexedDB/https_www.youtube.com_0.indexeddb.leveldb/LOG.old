@@ -1,0 +1,39 @@
+2026/08/15-23:42:41.290 123f Reusing MANIFEST /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/15-23:42:41.291 123f Recovering log #111
+2026/08/15-23:42:41.296 123f Reusing old log /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000111.log 
+2026/08/15-23:43:00.995 123f Level-0 table #116: started
+2026/08/15-23:43:01.033 123f Level-0 table #116: 1872111 bytes OK
+2026/08/15-23:43:01.040 123f Delete type=0 #111
+2026/08/15-23:44:59.229 1241 Compacting 1@1 + 1@2 files
+2026/08/15-23:44:59.237 1241 Generated table #117@1: 969 keys, 102085 bytes
+2026/08/15-23:44:59.237 1241 Compacted 1@1 + 1@2 files => 102085 bytes
+2026/08/15-23:44:59.244 1241 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/15-23:44:59.244 1241 Delete type=2 #113
+2026/08/15-23:44:59.244 1241 Delete type=2 #116
+2026/08/15-23:55:53.957 123f Level-0 table #119: started
+2026/08/15-23:55:53.969 123f Level-0 table #119: 1359190 bytes OK
+2026/08/15-23:55:53.976 123f Delete type=0 #115
+2026/08/15-23:56:20.892 1241 Compacting 1@1 + 1@2 files
+2026/08/15-23:56:20.903 1241 Generated table #120@1: 985 keys, 99754 bytes
+2026/08/15-23:56:20.903 1241 Compacted 1@1 + 1@2 files => 99754 bytes
+2026/08/15-23:56:20.909 1241 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/15-23:56:20.909 1241 Delete type=2 #119
+2026/08/15-23:56:20.909 1241 Delete type=2 #117
+2026/08/16-00:37:02.269 123f Level-0 table #122: started
+2026/08/16-00:37:02.282 123f Level-0 table #122: 1396293 bytes OK
+2026/08/16-00:37:02.289 123f Delete type=0 #118
+2026/08/16-00:39:07.086 1241 Compacting 1@1 + 1@2 files
+2026/08/16-00:39:07.097 1241 Generated table #123@1: 1005 keys, 105562 bytes
+2026/08/16-00:39:07.097 1241 Compacted 1@1 + 1@2 files => 105562 bytes
+2026/08/16-00:39:07.104 1241 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/16-00:39:07.104 1241 Delete type=2 #120
+2026/08/16-00:39:07.104 1241 Delete type=2 #122
+2026/08/16-01:09:55.934 123f Level-0 table #125: started
+2026/08/16-01:09:55.946 123f Level-0 table #125: 1762850 bytes OK
+2026/08/16-01:09:55.957 123f Delete type=0 #121
+2026/08/16-01:12:32.419 1241 Compacting 1@1 + 1@2 files
+2026/08/16-01:12:32.427 1241 Generated table #126@1: 1032 keys, 107521 bytes
+2026/08/16-01:12:32.427 1241 Compacted 1@1 + 1@2 files => 107521 bytes
+2026/08/16-01:12:32.433 1241 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/16-01:12:32.433 1241 Delete type=2 #125
+2026/08/16-01:12:32.433 1241 Delete type=2 #123

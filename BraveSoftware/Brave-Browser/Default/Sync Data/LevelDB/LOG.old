@@ -1,0 +1,18 @@
+2026/08/15-23:42:39.000 1251 Reusing MANIFEST /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/08/15-23:42:39.005 1251 Recovering log #99
+2026/08/15-23:42:39.006 1251 Reusing old log /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000099.log 
+2026/08/15-23:56:22.854 1252 Level-0 table #103: started
+2026/08/15-23:56:22.867 1252 Level-0 table #103: 70026 bytes OK
+2026/08/15-23:56:22.876 1252 Delete type=0 #99
+2026/08/15-23:56:22.876 1252 Compacting 4@0 + 1@1 files
+2026/08/15-23:56:22.884 1252 Generated table #104@0: 101 keys, 7337 bytes
+2026/08/15-23:56:22.884 1252 Compacted 4@0 + 1@1 files => 7337 bytes
+2026/08/15-23:56:22.896 1252 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/15-23:56:22.897 1252 Delete type=2 #100
+2026/08/15-23:56:22.897 1252 Delete type=2 #103
+2026/08/15-23:56:22.897 1252 Delete type=2 #98
+2026/08/15-23:56:22.897 1252 Delete type=2 #94
+2026/08/15-23:56:22.897 1252 Delete type=2 #96
+2026/08/16-00:41:22.294 1250 Level-0 table #106: started
+2026/08/16-00:41:22.302 1250 Level-0 table #106: 58542 bytes OK
+2026/08/16-00:41:22.316 1250 Delete type=0 #102

@@ -1,0 +1,16 @@
+2026-08-16 01:10:20.246 [info] Extension host with pid 60610 started
+2026-08-16 01:10:20.246 [info] Skipping acquiring lock for /home/HoaHung/.config/Code/User/workspaceStorage/85f3af0d243627962a8c3c023ec2d00c.
+2026-08-16 01:10:20.299 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-08-16 01:10:20.315 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-08-16 01:10:20.326 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-16 01:10:20.331 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-16 01:10:20.384 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-16 01:10:20.667 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-08-16 01:10:20.684 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-08-16 01:10:20.715 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-08-16 01:10:20.770 [info] Eager extensions activated
+2026-08-16 01:10:20.783 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-08-16 01:10:20.785 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-08-16 01:15:38.562 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-08-16 01:18:41.177 [info] Extension host terminating: received terminate message from renderer
+2026-08-16 01:18:41.188 [info] Extension host with pid 60610 exiting with code 0

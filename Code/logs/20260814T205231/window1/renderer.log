@@ -1,0 +1,15 @@
+2026-08-14 20:52:32.005 [info] Started local extension host with pid 36996.
+2026-08-14 20:52:32.215 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-08-14 20:52:32.696 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-08-14 20:52:32.712 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-08-14 20:52:33.050 [info] [AgentHost:renderer] Protocol connection established; clientId=30312f9a-11cf-4d45-8fcc-53cfe668ad88
+2026-08-14 20:52:34.065 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-14 20:52:34.936 [error] [Extension Host] (node:36996) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-08-14 20:52:39.065 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-14 20:52:49.225 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-08-14 20:52:49.334 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-14 20:52:49.347 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-14 20:52:49.347 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-14 20:52:49.357 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-14 20:52:49.440 [info] [perf] Render performance baseline is 12ms

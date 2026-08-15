@@ -1,0 +1,12 @@
+2026/08/16-01:14:14.276 f9d9 Reusing MANIFEST /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/16-01:14:14.276 f9d9 Recovering log #124
+2026/08/16-01:14:14.279 f9d9 Reusing old log /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000124.log 
+2026/08/16-01:14:16.010 f9d9 Level-0 table #129: started
+2026/08/16-01:14:16.019 f9d9 Level-0 table #129: 1238511 bytes OK
+2026/08/16-01:14:16.026 f9d9 Delete type=0 #124
+2026/08/16-01:14:27.916 f9d5 Compacting 1@1 + 1@2 files
+2026/08/16-01:14:27.927 f9d5 Generated table #130@1: 1050 keys, 156136 bytes
+2026/08/16-01:14:27.927 f9d5 Compacted 1@1 + 1@2 files => 156136 bytes
+2026/08/16-01:14:27.933 f9d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/16-01:14:27.934 f9d5 Delete type=2 #126
+2026/08/16-01:14:27.934 f9d5 Delete type=2 #129

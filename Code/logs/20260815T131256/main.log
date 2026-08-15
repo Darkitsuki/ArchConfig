@@ -1,0 +1,9 @@
+2026-08-15 13:12:56.632 [info] StorageMainService: creating application shared storage
+2026-08-15 13:12:56.703 [info] [shared storage] Creating shared storage database at '/home/HoaHung/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-08-15 13:12:56.704 [info] [shared storage] Initializing fallback application storage (path: /home/HoaHung/.config/Code/User/globalStorage/state.vscdb)
+2026-08-15 13:12:56.721 [info] [shared storage] Fallback application storage initialized with 83 items
+2026-08-15 13:12:56.722 [info] update#setState idle
+2026-08-15 13:12:57.758 [info] AgentHostProcessManager: agent host started
+2026-08-15 13:12:58.155 [error] [AgentHost:stderr] (node:11279) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+

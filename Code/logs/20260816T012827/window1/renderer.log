@@ -1,0 +1,24 @@
+2026-08-16 01:28:27.865 [info] Started local extension host with pid 74108.
+2026-08-16 01:28:28.070 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-08-16 01:28:28.715 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-08-16 01:28:28.720 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-08-16 01:28:28.832 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-16 01:28:29.024 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-08-16 01:28:29.103 [info] [AgentHost:renderer] Protocol connection established; clientId=1df5e888-3e42-4659-ac9a-d85ff8a886f2
+2026-08-16 01:28:29.132 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-16 01:28:29.132 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-16 01:28:29.135 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-16 01:28:29.138 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-16 01:28:30.534 [info] [perf] Render performance baseline is 11ms
+2026-08-16 01:28:30.939 [error] [Extension Host] (node:74108) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-08-16 01:28:33.833 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-16 01:31:16.061 [info] [AgentHost] Authenticating for resource: https://api.github.com
+2026-08-16 01:31:16.069 [info] [AgentHost] Authenticating for resource: https://api.github.com/repos
+2026-08-16 01:31:17.396 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-08-16 01:31:20.278 [error] [Extension Host] (node:74108) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-08-16 01:31:20.630 [error] MainThreadChatAgents2#$updateAgent: No agent with handle 2 registered
+2026-08-16 01:31:20.808 [error] chatParticipant must be declared in package.json: claude-code
+2026-08-16 01:31:22.770 [info] [ChatModelSelection] event=select-default surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmVmOTM3ZjUtMjMwMi00YmY1LThkMWMtYTY3MDg3ZmY0YjNk" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view" configuredModel=undefined defaultModel="copilot/auto" currentModel=undefined
+2026-08-16 01:31:23.640 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-08-16 01:33:28.556 [error] [Extension Host] GET /repos/Darkitsuki/.config - 404 with id 84E6:335A8:8DD7D:9A889:6A80B0F1 in 452ms
