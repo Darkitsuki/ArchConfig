@@ -1,7 +1,0 @@
-2026/08/16-01:43:32.488 f9d9 Reusing MANIFEST /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/16-01:43:32.488 f9d9 Recovering log #3
-2026/08/16-01:43:32.488 f9d9 Reusing old log /home/HoaHung/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2026/08/16-01:54:46.154 f9d5 Level-0 table #5: started
-2026/08/16-01:54:46.169 f9d5 Level-0 table #5: 3016728 bytes OK
-2026/08/16-01:54:46.176 f9d5 Delete type=0 #3
-2026/08/16-01:54:46.177 f9d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
